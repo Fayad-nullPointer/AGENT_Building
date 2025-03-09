@@ -16,9 +16,9 @@ We are excited to announce the development of an **Autonomous AI Agent** that ca
 
 ## 🔧 Technologies Used
 - **LLM Models** (e.g., Gemini API Flash 2.0)
-- **Vector Databases** for storage
+- **sqlite3** for storage
 - **Autonomous Task Execution** with AI Agents
-- **Python & FastAPI** for backend development
+- 
 
 ## 🚧 Work in Progress
 We are actively building and improving this project. Contributions and suggestions are welcome! 🎯
